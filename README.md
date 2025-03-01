@@ -4,6 +4,10 @@ Nextflow workflow running ft predict m6a, pbsv, deepvariant, sniffles, hiphase, 
 
 Adapted from Stergachis lab's snakemake workflow
 
+(https://github.com/mrvollger/k-mer-variant-phasing/blob/master/workflow/rules/kmer.smk
+
+https://github.com/furlan-lab/FIRE/blob/main/workflow/rules/fire-peaks.smk)
+
 ## Workflow
 
 1. Run ft predict-m6a
@@ -75,3 +79,9 @@ pbmm2/          # aligned BAM files
 pbsv/           # vcf.gz output files (indexed) from running pbsv
 sniffles/       # vcf file from running sniffles
 ```
+
+Work in progress: visual.nf to visualize FIRE outputs
+
+# Authors
+
+Analysis code was written by Stergachis lab. Workflow code was written by Tam Ho (tamdbho@gmail.com)
