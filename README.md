@@ -84,4 +84,4 @@ Work in progress: visual.nf to visualize FIRE outputs
 
 # Authors
 
-Analysis code was written by Stergachis lab. Workflow code was written by Tam Ho (tamdbho@gmail.com)
+Analysis code was written by Stergachis lab. Workflow code was written by Tam Ho (tam.db.ho@gmail.com)
